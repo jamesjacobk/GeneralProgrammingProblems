@@ -1,0 +1,3 @@
+There are N people standing in a circle. The first person has a sword. The first person kills the second and gives the sword to the third. The third person kills the fourth and gives the sword to the fifth and so on. Find out the last person standing.
+
+Reference: https://en.wikipedia.org/wiki/Josephus_problem
